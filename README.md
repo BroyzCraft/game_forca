@@ -4,7 +4,7 @@ Trata-se de um pequeno game de console de JOGO DA FORCA.
 
 Totalmente construí­do em python, existindo funções para edição das palavras mestre, inclusão de dicas e sistema de pontuação.
 
-## InstalaÃ§Ã£o
+## Instalação
 
 É preciso apenas a instalação do Python ou algum plataforma que o contenha.
 
